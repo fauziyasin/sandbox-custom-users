@@ -64,7 +64,7 @@ def find_most_recent_date(data, most_recent_date=datetime.min):
     return most_recent_date
 
 
-sandbox_user_files = [
+sandbox_iDENTITYBASIC_files = [
     "assets/assets_credit_categories.json",
     "assets/assets_custom_user.json",
     "assets/assets_custom_user2.json",
